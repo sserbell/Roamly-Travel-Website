@@ -7,7 +7,6 @@ Roamly is a travel website created as part of a university web development cours
 The design features a navigation header, a travel-themed hero section, content cards, reservation form, an events calendar, and a structured footer.
 
 **Please see screenshots of the website in the roamly-travel-website-screenshots file.
-Features
 ## Features
 - Fixed navigation header for easy access to site sections
 - Travel-themed hero section and visual hierarchy
